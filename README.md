@@ -3,8 +3,8 @@
 My name is Arius Ulibarri. I'm 24 years old and recently graduated from [California State University San Bernardino](https://www.csusb.edu/) with a B.A. in Computer Systems Game Development Concentration, and a minor in Computer Science. I am currently seeking career opportunities in software development. I've also recently taken an interest in game engine development, as well as general multidisciplinary game development. 
 
 Key Tech and Tech Interests:
-- Programming Languages: C++, C#, Python, Unity, Godot
-- Tech Interests: DirectX 12, Vulkan, WinAPI, Game Engines
+- Programming Languages: C++, C#, Python
+- Tech Interests: DirectX 12, Vulkan, WinAPI, Game Engines (Unity, Godot)
 
 You can look at some of my projects below in the pinned repos!
 
