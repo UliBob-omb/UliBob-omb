@@ -10,9 +10,9 @@ You can look at some of my projects below in the pinned repos!
 
 <!--Ulibomber's GitHub stats]]-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ulibomber1&show_icons=true&hide=issues&show=reviews,prs_merged&include_all_commits=true&theme=transparent&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UliBob-omb&show_icons=true&hide=issues&show=reviews,prs_merged&include_all_commits=true&theme=transparent&rank_icon=github" />
 </a>
 <!--Top Langs-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulibomber1&hide=html,shaderlab,mathematica,javascript,css&layout=donut&theme=transparent&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UliBob-omb&hide=html,shaderlab,mathematica,javascript,css&layout=donut&theme=transparent&size_weight=0.5&count_weight=0.5" />
 </a>
